@@ -1,5 +1,5 @@
 package week11;
-
+system.out.println("ohaoshdoa");
 public abstract class Payment implements ClassInfo {
 	protected boolean isPaidOff;
 	protected Item item;
